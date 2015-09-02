@@ -1,0 +1,10 @@
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.exe.config
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.exe
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.pdb
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\vJoyInterfaceWrap.dll
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD Window Form Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD_Window_Form_Test_3.Form1.resources
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD_Window_Form_Test_3.Properties.Resources.resources
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD Window Form Emulator.csproj.GenerateResource.Cache
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD Window Form Test 3.exe
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD Window Form Test 3.pdb

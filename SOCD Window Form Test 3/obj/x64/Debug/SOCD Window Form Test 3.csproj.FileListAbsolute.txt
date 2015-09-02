@@ -1,0 +1,11 @@
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.exe.config
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.exe
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.pdb
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\vJoyInterfaceWrap.dll
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD_Window_Form_Test_3.Properties.Resources.resources
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD Window Form Test 3.csproj.GenerateResource.Cache
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD Window Form Test 3.exe
+c:\users\msungo\documents\visual studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD Window Form Test 3.pdb
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\obj\x64\Debug\SOCD_Window_Form_Test_3.Form1.resources
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.exe.CodeAnalysisLog.xml
+C:\Users\Msungo\Documents\Visual Studio 2013\Projects\SOCD Window Form Test 3\SOCD Window Form Test 3\bin\x64\Debug\SOCD Window Form Test 3.exe.lastcodeanalysissucceeded
